@@ -1,0 +1,5 @@
+---
+redmine_db: redmine
+redmine_dbuser: admin
+redmine_dbpass: admin
+redmine_lang: en
